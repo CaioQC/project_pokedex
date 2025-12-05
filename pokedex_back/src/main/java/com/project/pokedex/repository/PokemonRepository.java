@@ -1,5 +1,5 @@
 package com.project.pokedex.repository;
 
-public class PokemonRepository {
+public interface PokemonRepository {
 
 }
